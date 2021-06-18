@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.container {
+  margin: 50px 150px 50px 50px;
+  position: relative;
+}
+
+.container-edit {
+  margin: 50px 150px 150px 50px;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
